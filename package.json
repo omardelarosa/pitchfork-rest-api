@@ -1,0 +1,14 @@
+{
+  "name": "pitchfork-rest-api",
+  "version": "1.0.0",
+  "description": "a RESTful api for pitchfork music reviews",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'TODO: add testing'"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
