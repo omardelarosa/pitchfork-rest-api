@@ -16,6 +16,7 @@
     "elasticsearch": "^8.2.0",
     "express": "^4.13.3",
     "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4",
     "lodash": "^3.10.1",
     "logfmt": "^1.2.0",
     "mongo-elasticsearch": "^1.0.0",
