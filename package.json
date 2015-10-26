@@ -12,7 +12,13 @@
     "mocha": "^2.3.3"
   },
   "dependencies": {
+    "body-parser": "^1.14.1",
     "elasticsearch": "^8.2.0",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "lodash": "^3.10.1",
+    "logfmt": "^1.2.0",
+    "mongo-elasticsearch": "^1.0.0",
     "mongodb": "^2.0.46"
   }
 }
