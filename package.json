@@ -2,7 +2,7 @@
   "name": "pitchfork-rest-api",
   "version": "1.0.0",
   "description": "a RESTful api for pitchfork music reviews",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo 'TODO: add testing'"
   },
