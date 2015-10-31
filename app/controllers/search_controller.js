@@ -4,6 +4,8 @@ var esConfig      = conf.esConfig;
 var _             = require('lodash');
 var client;
 
+if (typeof Promise === 'undefined') { Promise = require('q').Promise; }
+
 var connectToES = function(){
   return new Promise(function(resolve, reject) {
     try {
